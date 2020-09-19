@@ -4,19 +4,19 @@
 
 ## Project 💻
 
-<h3 align="center">
+<h4>
   A mobile app developed with React Native. </br>
   Easy to find barbers of your region and make an appointment with your favorite barber. </br>
   This app can be adapted for any service segment. </br>
-</h3>
+</h4>
 
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="GoBarber" title="#GoBarber" src=".screenshots/1.png" width="320px" />
-    <img alt="GoBarber" title="#GoBarber" src=".screenshots/2.png" width="320px" />
-    <img alt="GoBarber" title="#GoBarber" src=".screenshots/3.png" width="320px" />
-    <img alt="GoBarber" title="#GoBarber" src=".screenshots/4.png" width="320px" />
+    <img alt="GoBarber" title="#GoBarber" src=".screenshots/1.png" width="160px" />
+    <img alt="GoBarber" title="#GoBarber" src=".screenshots/2.png" width="160px" />
+    <img alt="GoBarber" title="#GoBarber" src=".screenshots/3.png" width="160px" />
+    <img alt="GoBarber" title="#GoBarber" src=".screenshots/4.png" width="160px" />
 </p>
 
 ## Technologies
@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💙 by Carlos Eduardo Silva [See my linkedin](https://www.linkedin.com/in/carlos-silva-devs/)
+Made with 💙 by Carlos Eduardo Silva <a target="_blank" href="https://www.linkedin.com/in/carlos-silva-devs/">See my Linkedin</a>
