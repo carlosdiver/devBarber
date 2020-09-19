@@ -2,7 +2,7 @@
   DevBarber
 </h1>
 <h3 align="center">
-  [English](README) | [Portuguese](README_PT)
+  [English](README.md) | [Portuguese](README_PT.md)
 </h3>
 
 ## 💻 Project
