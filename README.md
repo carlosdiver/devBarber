@@ -18,6 +18,7 @@
   <a href="https://www.linkedin.com/in/carlos-silva-devs/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Carlos%20Eduardo-63C2D1">
   </a>
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carlosdiver/devBarber?logoColor=%2363C2D1&style=plastic">
   
   <img alt="Forks" src="https://img.shields.io/github/forks/carlosdiver/devBarber?style=plastic">
   
