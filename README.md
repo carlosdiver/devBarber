@@ -2,7 +2,7 @@
   DevBarber
 </h1>
 
-## Project 💻
+## 💻 Project
 
 <h4>
   A mobile app developed with React Native. </br>
@@ -32,7 +32,7 @@
     <img alt="GoBarber" title="#GoBarber" src=".screenshots/4.png" width="200px" />
 </p>
 
-## Technologies
+## 💻 Technologies
 
 Technologies used to develop this app
 
@@ -47,7 +47,7 @@ Technologies used to develop this app
 - [Metro](https://facebook.github.io/metro/)
 - [Eslint](https://eslint.org/)
 
-## Getting started
+## 🚀 Getting started
 
 First you need to have node or yarn installed on your machine.
 Then, you can clone this repository and run the following commands inside the project root:
