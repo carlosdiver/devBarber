@@ -2,15 +2,15 @@
   DevBarber
 </h1>
 <h3 align="center">
-  [English](README) | [Portuguese](LICENSE_PT)
+  [Inglês](README) | [Português](LICENSE_PT)
 </h3>
 
-## 💻 Project
+## 💻 Projeto
 
 <h4>
-  A mobile app developed with React Native. </br>
-  Easy to find barbers of your region and make an appointment with your favorite barber. </br>
-  This app can be adapted for any service segment. </br>
+  Um aplicativo desenvolvido com React Native </br>
+  Com ele é fácil encontrar barbeiros da sua região e fazer uma gendamento com o seu barbeiro favorito. </br>
+  Este aplicativo pode ser adaptado para qualquer seguimento de serviços. </br>
 </h4>
 <br />
 <p align="center">
@@ -35,9 +35,9 @@
     <img alt="GoBarber" title="#GoBarber" src=".screenshots/4.png" width="200px" />
 </p>
 
-## 💻 Technologies
+## 💻 Tecnologias
 
-Technologies used to develop this app
+Tecnologias utilizadas para desenvolver esse aplicativo
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -50,25 +50,25 @@ Technologies used to develop this app
 - [Metro](https://facebook.github.io/metro/)
 - [Eslint](https://eslint.org/)
 
-## 🚀 Getting started
+## 🚀 Instalação
 
-First you need to have node and yarn installed on your machine.
-Run the following command to clone the project:
+Primeiro, você deve ter o node e yarn istalados no seu computador.
+Então, você pode clonar este repositório com o seguinte comando:
 
 1. `git clone https://github.com/carlosdiver/devBarber.git`
 
-Then, inside the project root, run the following command to install dependencies:
+Em seguida, rode o seguinte comando na raíz do projeto, para instalar as dependências:
 
 2. `npm install`
 
-After, with the Android or IOS emulator on, execute the following command to run the project:
+Depois, com um emulador Android ou IOS ligado, execute o seguinte comando para rodar o projeto no emulador:
 
 3. `npx react-native run-android`
 
-## 📝 License
+## 📝 Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está sob a licença MIT. Veja aqui [aqui](LICENSE) o arquivo da licença para mais detalhes.
 
 ---
 
-Made with 💙 by Carlos Eduardo Silva <a target="_blank" href="https://www.linkedin.com/in/carlos-silva-devs/">See my Linkedin</a>
+Feito com 💙 por Carlos Eduardo Silva <a target="_blank" href="https://www.linkedin.com/in/carlos-silva-devs/">Veja meu Linkedin</a>
