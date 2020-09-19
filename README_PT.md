@@ -1,10 +1,10 @@
 <h1 align="center">
   DevBarber
 </h1>
-<h4 align="center">
-  <a href="./README.md">Inglês</a>
-  <a href="./README_PT.md">Português</a>
-</h4>
+<h3 align="center">
+  <a href="./README.md">English</a> |
+  <a href="./README_PT.md">Portuguese</a>
+</h3>
 
 ## 💻 Projeto
 
