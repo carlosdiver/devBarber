@@ -10,6 +10,9 @@
   This app can be adapted for any service segment. </br>
 </h4>
 <p align="center">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlosdiver/devBarber?logoColor=%2363C2D1&style=plastic">
+
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlosdiver/devBarber?logoColor=%2363C2D1&style=plastic">
 
   <a href="https://www.linkedin.com/in/carlos-silva-devs/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Carlos%20Eduardo-63C2D1">
@@ -17,7 +20,7 @@
 
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/carlosdiver/devBarber?style=social">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/2.56%20MB?logoColor=%2363C2D1&style=plastic">
+  <img alt="Steam File Size" src="https://img.shields.io/steam/size/2.56%20MB?logoColor=%2363C2D1&style=plastic">
   
   <img alt="Forks" src="https://img.shields.io/github/forks/carlosdiver/devBarber?style=plastic">
 
