@@ -20,10 +20,6 @@
   </a>
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carlosdiver/devBarber?logoColor=%2363C2D1&style=plastic">
   
-  <img alt="Forks" src="https://img.shields.io/github/forks/carlosdiver/devBarber?style=plastic">
-  
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/carlosdiver/devBarber?style=social">
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
