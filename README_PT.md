@@ -9,8 +9,8 @@
 ## 💻 Projeto
 
 <h4>
-  Um aplicativo desenvolvido com React Native </br>
-  Com ele é fácil encontrar barbeiros da sua região e fazer uma gendamento com o seu barbeiro favorito. </br>
+  Um aplicativo desenvolvido com React Native. </br>
+  Com ele é fácil encontrar barbeiros da sua região e fazer um agendamento com o seu barbeiro favorito. </br>
   Este aplicativo pode ser adaptado para qualquer seguimento de serviços. </br>
 </h4>
 <br />
@@ -53,7 +53,7 @@ Tecnologias utilizadas para desenvolver esse aplicativo
 
 ## 🚀 Instalação
 
-Primeiro, você deve ter o node e yarn istalados no seu computador.
+Primeiro, você deve ter o node e yarn instalados no seu computador. </br>
 Então, você pode clonar este repositório com o seguinte comando:
 
 1. `git clone https://github.com/carlosdiver/devBarber.git`
@@ -68,7 +68,7 @@ Depois, com um emulador Android ou IOS ligado, execute o seguinte comando para r
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja aqui [aqui](LICENSE) o arquivo da licença para mais detalhes.
+Este projeto está sob a licença MIT. Veja aqui [aqui](LICENSE_PT) o arquivo da licença para mais detalhes.
 
 ---
 

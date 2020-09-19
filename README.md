@@ -11,7 +11,7 @@
 <h4>
   A mobile app developed with React Native. </br>
   Easy to find barbers of your region and make an appointment with your favorite barber. </br>
-  This app can be adapted for any service segment. </br>
+  This app can be adapted for any services segment. </br>
 </h4>
 <br />
 <p align="center">
